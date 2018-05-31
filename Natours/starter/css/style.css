@@ -37,6 +37,9 @@ html {
   font-size: 62.5%; }
 
 body {
+  box-sizing: border-box; }
+
+body {
   font-family: "Lato", sans-serif;
   font-weight: 400;
   /* font-size: 16px; */
@@ -108,6 +111,12 @@ body {
 .btn--animated {
   animation: moveInBottom .5s ease-out .75s;
   animation-fill-mode: backwards; }
+
+.row {
+  max-width: 114rem;
+  background-color: #eee;
+  margin: 0 auto;
+  display: block; }
 
 .header {
   height: 95vh;
