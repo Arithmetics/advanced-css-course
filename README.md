@@ -5,7 +5,7 @@ This repo contains starter files and the finished project files for all the proj
 Plus, I made all the course slides available for download, to make it easier to follow along the conceptual videos.
 
 👇 ***Please read the following Frequently Asked Questions (FAQ) carefully before starting the course*** 👇
-
+.....
 ## FAQ
 
 ### Q1: How do I download the files?
